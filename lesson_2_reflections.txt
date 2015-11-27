@@ -6,4 +6,5 @@ The staging area is located between the working directory and the git repository
 because it is an area for preparing the things that are going to be comitted, so it offers a space
 to add the files to a temporary area.
 
-
+-How can you use the staging area to make sure you have one commit per logical change?
+By adding every change to this area and then commit it to the repository.
