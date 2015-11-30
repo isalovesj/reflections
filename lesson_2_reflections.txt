@@ -15,3 +15,7 @@ in case something goes wrong with the new feature.
 
 -How do the diagrams help you visualize the branch structure?
 Because it shows the last commits made in a branch or multiple branches, including master.
+
+-What is the result of merging two branches together? Why do we represent it in the diagram the way we do?
+Merging two branches creates a new commit, so we don't need to label every branch again, cause
+the resulting commit has all the log history from its parents
