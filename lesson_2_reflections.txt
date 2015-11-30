@@ -19,3 +19,8 @@ Because it shows the last commits made in a branch or multiple branches, includi
 -What is the result of merging two branches together? Why do we represent it in the diagram the way we do?
 Merging two branches creates a new commit, so we don't need to label every branch again, cause
 the resulting commit has all the log history from its parents
+
+
+-What are the pros and cons of Git’s automatic merging vs. always doing merges manually?
+Sometimes there are conflicts between two commits that you want to merge, so you can't continue
+merging until you fix the conflict, so doing merges manually sometimes it is required.
