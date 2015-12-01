@@ -13,3 +13,8 @@ Branches belong to the same repository and are used when you just want to make a
 
 -What is the benefit of having a copy of the last known state of the remote stored locally?
 I think it is that you keep your repository up to date, with all the changes made for remote and local.
+
+-How would you collaborate without using Git or GitHub? What would be easier, and what would be harder?
+Through all I've learned in this course I realized that I wasted time not using git, it is a powerful platform 
+not only for one person, but for multiple persons involved in a single project. It makes so much easier handling 
+versions of code.
