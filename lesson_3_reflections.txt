@@ -18,3 +18,8 @@ I think it is that you keep your repository up to date, with all the changes mad
 Through all I've learned in this course I realized that I wasted time not using git, it is a powerful platform 
 not only for one person, but for multiple persons involved in a single project. It makes so much easier handling 
 versions of code.
+
+-When would you want to make changes in a separate branch rather than directly in master? What benefits does each approach have?
+When a change is considerable big enough, and you're not sure if that change is going to stay or work at all. Besides it is useful when you split a project into parts and different people is responsible to develop each part. You could make a branch for every split you made, and merging all at the end when you all are sure that the whole project is working.
+On the other hand I think commiting directly to master it's a little too risky, even more when a lot of people is commiting to the master.
+
